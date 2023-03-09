@@ -1,4 +1,4 @@
-<h2 align="center"><b>Personal Information 👨‍💻</b></h2>
+<h2 align="center"><b>Hello World, I'm Deepjit 👋🏻💻</b></h2>
 
 
 <p align='Middle'><a href='https://t.me/Itz_me_AR><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
@@ -119,3 +119,28 @@ class Deepjit():
 [![Metrics](https://metrics.lecoq.io/deepaiimsss?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Itz_me_AR)
 ----
 
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+</p> 
+
+### - Python 
+
+<p align="left">
+<a href="https://www.python.org">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+</p>
+
+
+
+### - Blogs 🌱
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+***********************************
+
+#### Thank You-🙏🏼
+
+
+> Tamanna
+⭐ From [Tamanna](https://github.com/deepaiimsss)
