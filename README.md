@@ -36,7 +36,7 @@ class Deepjit():
  ```
   
 <div align="center">
-<img src="https://telegra.ph/file/93fc9f10eb3d22707.jpg"/>
+<img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg"/>
 </div>
 
 <details>
