@@ -60,6 +60,7 @@ class Deepjit():
 </a>
 </b></h2>  
 </details>
+
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
   
 <details>
