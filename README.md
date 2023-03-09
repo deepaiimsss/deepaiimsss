@@ -142,5 +142,5 @@ class Deepjit():
 #### Thank You-🙏🏼
 
 
-> Tamanna
-⭐ From [Tamanna](https://github.com/deepaiimsss)
+> Deepjit
+⭐ From [Deepjit](https://github.com/deepaiimsss)
