@@ -34,6 +34,10 @@ class Deepjit():
             'Windows', 'Android', 'Linux'
         ]
  ```
+  
+<div align="center">
+<img src="https://telegra.ph/file/93fc9f10eb3d22707.jpg"/>
+</div>
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
