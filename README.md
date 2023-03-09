@@ -41,6 +41,7 @@ class Deepjit():
 <img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg"/>
 </div>
 
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deeepaiimsss)
 <details>
 <summary>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 ⠂</summary>
 <h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐
@@ -59,7 +60,7 @@ class Deepjit():
 </a>
 </b></h2>  
 </details>
-
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deeepaiimsss)
 <details>
 <summary>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠂</summary>
 <h2 align="center"><b>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠐
