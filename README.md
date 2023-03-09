@@ -61,6 +61,14 @@ class Deepjit():
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=midnight-purple&hide=Css">
     <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=midnight-purple&hide=Css" />
+    
+<details>
+<summary>⠂Deepjit's Github Graph⠐</summary>
+<h2 align="center"><b>⠂Github Graph⠐
+  <br>
+  <br>
+![Deepjit's GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+</details>
 </a>
 </b></h2>  
 </details>
