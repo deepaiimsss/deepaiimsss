@@ -112,6 +112,8 @@ class Deepjit():
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepjit_9862) 
 [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Itz_me_AR) 
 </details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 <details>
 <summary>⠂𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐋𝐨𝐯𝐞⠐</summary>
 <h2 align="center"><b>⠂𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐋𝐨𝐯𝐞⠐
