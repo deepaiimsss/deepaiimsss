@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hello World, I'm Deepjit 👋🏻💻</b></h2>
+<h2 align="center"><b>Hello World, I'm Deepjit 👋🏻</b></h2>
 
 
 <p align='Middle'><a href='https://t.me/Itz_me_AR><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
