@@ -65,13 +65,11 @@ class Deepjit():
 <details>
 <summary>⠂Deepjit's Github Graph⠐</summary>
 <h2 align="center"><b>⠂Github Graph⠐
-  <br>
-  <br>
+<br>
+<br>
 ![Deepjit's GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
-</a>
-</b></h2>  
-</details>
+  
 
 <details>
 <summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
