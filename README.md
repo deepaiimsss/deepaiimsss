@@ -86,6 +86,8 @@ class Deepjit():
 ![Deepjit's GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
   
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+  
 
 <details>
 <summary>⠂𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞⠐</summary>
@@ -96,6 +98,8 @@ class Deepjit():
   
 [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](deepjitkolkata@gmail.com)</b></h2>
 </details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
 
 
@@ -136,6 +140,8 @@ class Deepjit():
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </b></h2>
 </details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
 [![Metrics](https://metrics.lecoq.io/deepaiimsss?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Itz_me_AR)
 
