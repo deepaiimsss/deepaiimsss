@@ -63,8 +63,8 @@ class Deepjit():
 <h2 align="center"><b>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=synthwave&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiimsss&layout=compact&theme=synthwave&hide=Css" />
 </a>
 </b></h2>  
 </details>
