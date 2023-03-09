@@ -3,7 +3,7 @@ on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
