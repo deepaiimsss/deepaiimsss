@@ -9,6 +9,7 @@
 </p> 
 <br>
 
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deeepaiimsss)
 ```python3
 class Deepjit():
     def __init__(self):
@@ -34,6 +35,7 @@ class Deepjit():
             'Windows', 'Android', 'Linux'
         ]
  ```
+ [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deeepaiimsss)
   
 <div align="center">
 <img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg"/>
