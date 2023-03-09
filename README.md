@@ -146,7 +146,7 @@ class Deepjit():
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
 ----
-[![Metrics](./github-metrics.svg)](https://t.me/Itz_me_AR)
+[![Metrics](./github-metrics.svg)](https://t.me/Itz_me_A)
 
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
