@@ -77,7 +77,7 @@ class Deepjit():
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
 <details>
-<summary>⠂Deepjit'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
+<summary>⠂𝐃𝐞𝐞𝐩𝐣𝐢𝐭'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
 <h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬⠐
   <br>
   <br>
