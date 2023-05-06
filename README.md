@@ -16,7 +16,7 @@ class Deepjit():
         self.name = ['Deepjit']
         self.country = ['India']
         self.state = ['West Bengal']
-        self.language = ['हिंदी', 'English']
+        self.language = ['हिंदी', 'English', 'বাংলা']
     def programming_languages(self):
         return [
             'Python', 'SQL', 'Java', 'JavaScript', 'C++', 'C', 'Go', 'PHP'
