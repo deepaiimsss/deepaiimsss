@@ -9,7 +9,7 @@
 </p> 
 <br>
 
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
 ```python3
 class Deepjit():
     def __init__(self):
@@ -35,13 +35,13 @@ class Deepjit():
             'Windows', 'Android', 'Linux'
         ]
  ```
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
   
 <div align="center">
 <img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg"/>
 </div>
 
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
 <details>
 <summary>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 ⠂</summary>
 <h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐
@@ -61,7 +61,7 @@ class Deepjit():
 </b></h2>  
 </details>
 
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
   
 <details>
 <summary>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠂</summary>
@@ -74,7 +74,7 @@ class Deepjit():
 </b></h2>  
 </details>
   
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
 
 <details>
 <summary>⠂𝐃𝐞𝐞𝐩𝐣𝐢𝐭'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
@@ -86,7 +86,7 @@ class Deepjit():
 ![Deepjit's GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
   
-[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>]
   
 
 <details>
