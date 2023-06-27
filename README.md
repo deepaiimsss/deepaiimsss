@@ -83,7 +83,7 @@ class Deepjit():
   <br>
 
 
-![Deepjit's GitHub Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Deepjit's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
   
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
