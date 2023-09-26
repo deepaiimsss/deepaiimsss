@@ -154,8 +154,7 @@ class Deepjit():
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 
 
-[![Metrics](https://metrics.lecoq.io/deepaiimsss)
-
+[![Metrics](./github-metrics.svg)](https://t.me/Itz_me_AR)
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 
 <p align="center">
