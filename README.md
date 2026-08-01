@@ -55,7 +55,7 @@ class Deepjit():
   
 
 <p align="center">
-  <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-profile-summary-cards.vercel.app/api?username=deepaiimsss&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />
+  <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-profile-summary-cards.vercel.app//cards/stats?username=deepaiimsss&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />
 </p>
 
 </a>
