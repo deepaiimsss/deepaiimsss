@@ -44,22 +44,23 @@ class Deepjit():
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 <details>
 <summary>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 ⠂</summary>
-<h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐
-<br>
+
+<h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐</b></h2>
+
 <br>
 
-----
+---
+
 ![GitHub followers](https://img.shields.io/github/followers/deepaiimsss?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=deepaiimsss.deepaiimsss)
-[![Profile views](https://komarev.com/ghpvc/?username=deepaiimsss&label=Profile%20views)](https://github.com/deepaiimsss)
-![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
-  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=deepaiimsss&style=for-the-badge)](https://github.com/deepaiimsss)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deepaiimsss&theme=algolia&row=2&column=6)
+
 <p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaiimsss&theme=github_dark" />
+  <img width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaiimsss&theme=github_dark" />
 </p>
 
-</a>
-</b></h2>  
 </details>
 
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
