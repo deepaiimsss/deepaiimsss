@@ -55,7 +55,7 @@ class Deepjit():
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deepaiimsss&style=for-the-badge)](https://github.com/deepaiimsss)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deepaiimsss&theme=algolia&row=2&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepaiimsss)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaiimsss&theme=github_dark" />
