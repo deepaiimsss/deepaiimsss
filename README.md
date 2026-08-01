@@ -53,10 +53,9 @@ class Deepjit():
 [![Profile views](https://komarev.com/ghpvc/?username=deepaiimsss&label=Profile%20views)](https://github.com/deepaiimsss)
 ![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
   
-
-<a href="https://github-profile-summary-cards.vercel.app//cards/stats?username=deepaiimsss&layout=compact&show_icons=true&theme=synthwave&cache_seconds=1800">
-  <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-profile-summary-cards.vercel.app//cards/stats?username=deepaiimsss&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />
-
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepaiimsss&theme=github_dark" />
+</p>
 
 </a>
 </b></h2>  
