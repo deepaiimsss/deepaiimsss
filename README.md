@@ -54,7 +54,7 @@ class Deepjit():
 ![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
   
 <p align="center">
-  <img width="520" src="https://github-stats-extended.vercel.app/api?username=deepaiimsss&theme=github_dark" />
+  <img width="60%" src="https://github-stats-extended.vercel.app/api?username=deepaiimsss&show_icons=true&theme=synthwave" />
 </p>
 
 </a>
@@ -69,7 +69,7 @@ class Deepjit():
 <br>
 <br>
 <p align="center">
-<img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs?username=deepaiimsss&theme=github_dark" />
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs?username=deepaiimsss&theme=github_dark" />
 </p>
 </b></h2>  
 </details>
