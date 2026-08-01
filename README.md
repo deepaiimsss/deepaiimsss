@@ -70,7 +70,7 @@ class Deepjit():
 <br>
 <br>
 <p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaiimsss&theme=github_dark" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepaiimsss&theme=github_dark" />
 </p>
 </b></h2>  
 </details>
