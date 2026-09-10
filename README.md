@@ -1,12 +1,6 @@
 <h2 align="center"><b>Hello World, I'm Deepjit 👋🏻</b></h2>
 
 <p align="center">
-  <a href="https://t.me/Itz_me_AR">
-    <img src="https://te.legra.ph/file/329cff91cfe957c848cc7.jpg" width="750">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=459&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+CSS%2C+Java%2C+HTML%2C+C%2B%2B%2C+C%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p>
 
@@ -14,35 +8,33 @@
 
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
-```python3
-class Deepjit():
-    def __init__(self):
-        self.name = ['Deepjit']
-        self.country = ['India']
-        self.state = ['West Bengal']
-        self.language = ['हिंदी', 'English', 'বাংলা']
+    class Deepjit():
+        def __init__(self):
+            self.name = ['Deepjit']
+            self.country = ['India']
+            self.state = ['West Bengal']
+            self.language = ['हिंदी', 'English', 'বাংলা']
 
-    def programming_languages(self):
-        return [
-            'Python', 'SQL', 'Java', 'JavaScript', 'C++', 'C', 'Go', 'PHP'
-        ]
+        def programming_languages(self):
+            return [
+                'Python', 'SQL', 'Java', 'JavaScript', 'C++', 'C', 'Go', 'PHP'
+            ]
 
-    def markup_languages(self):
-        return [
-            'HTML', 'CSS'
-        ]
+        def markup_languages(self):
+            return [
+                'HTML', 'CSS'
+            ]
 
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
-        ]
+        def developer_tools(self):
+            return [
+                'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+                'MongoDB', 'MySQL', 'Azure'
+            ]
 
-    def operating_system(self):
-        return [
-            'Windows', 'Android', 'Linux'
-        ]
-```
+        def operating_system(self):
+            return [
+                'Windows', 'Android', 'Linux'
+            ]
 
 [<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss)
 
