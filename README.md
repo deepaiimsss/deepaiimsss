@@ -52,10 +52,6 @@ class Deepjit():
 ![](https://visitor-badge.glitch.me/badge?page_id=deepaiimsss.deepaiimsss)
 [![Profile views](https://komarev.com/ghpvc/?username=deepaiimsss&label=Profile%20views)](https://github.com/deepaiimsss)
 ![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
-  
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph-delta-teal.vercel.app//api?username=deepaiimsss&show_icons=true&theme=synthwave" />
-</p>
 
 </a>
 </b></h2>  
