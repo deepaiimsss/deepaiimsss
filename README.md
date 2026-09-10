@@ -140,212 +140,91 @@
 
 <p align="center">
 
-  <img
-    alt="Java"
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-  >
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-  <img
-    alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-  >
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  >
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-  <img
-    alt="Bootstrap"
-    src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"
-  >
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-  <img
-    alt="NestJS"
-    src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
-  >
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
-  <img
-    alt="Express"
-    src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB"
-  >
+<img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB">
 
-  <img
-    alt="Next.js"
-    src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"
-  >
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 
-  <img
-    alt="Node.js"
-    src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-  >
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 
-  <img
-    alt="Python"
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-  >
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-  <img
-    alt="Django"
-    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-  >
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-  <img
-    alt="CSS"
-    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  >
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-  <img
-    alt="C"
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-  >
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-  <img
-    alt="C++"
-    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
-  >
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-  <img
-    alt="HTML"
-    src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  >
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-  <img
-    alt="PHP"
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  >
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-  <img
-    alt="Go"
-    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-  >
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
-  <img
-    alt="Spring"
-    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-  >
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-  <img
-    alt="FastAPI"
-    src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"
-  >
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
 
-  <img
-    alt="Flask"
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-  >
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-  <img
-    alt="NumPy"
-    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-  >
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-  <img
-    alt="Adobe"
-    src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"
-  >
+<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
 
-  <img
-    alt="Visual Studio"
-    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"
-  >
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 
-  <img
-    alt="GitHub"
-    src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"
-  >
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
 
-  <img
-    alt="Git"
-    src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"
-  >
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
 
-  <img
-    alt="AWS"
-    src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
-  >
+<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-  <img
-    alt="Azure"
-    src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"
-  >
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
-  <img
-    alt="Heroku"
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  >
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
-  <img
-    alt="MySQL"
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  >
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-  <img
-    alt="Visual Studio Code"
-    src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  >
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-  <img
-    alt="PostgreSQL"
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-  >
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-  >
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-  <img
-    alt="SQLite"
-    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-  >
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
-  <img
-    alt="Oracle"
-    src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white"
-  >
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white">
 
-  <img
-    alt="Redis"
-    src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"
-  >
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
 
-  <img
-    alt="Ubuntu"
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-  >
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
-  <img
-    alt="Kali Linux"
-    src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"
-  >
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 
-  <img
-    alt="Arch Linux"
-    src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"
-  >
+<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
 
-  <img
-    alt="Debian"
-    src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"
-  >
+<img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 
-  <img
-    alt="Windows"
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-  >
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-  <img
-    alt="Android"
-    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-  >
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 </p>
 
 </details>
 
 <img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
-
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics">
 </p>
