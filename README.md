@@ -1,268 +1,195 @@
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+<h2 align="center"><b>Hello World, I'm Deepjit 👋🏻</b></h2>
 
-<div align="center">
-  <img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg">
-</div>
 
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+<p align='Middle'><a href='https://t.me/Itz_me_AR><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
-<details>
-<summary>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 ⠐</summary>
-
-<h2 align="center">
-  <b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐</b>
-</h2>
-
+  
 <p align="center">
-
-  <img src="https://img.shields.io/github/followers/deepaiimsss?label=Follow&style=social">
-
-  <img src="https://komarev.com/ghpvc/?username=deepaiimsss&label=Profile%20Views">
-
-  <br><br>
-
-  <img src="https://github-trophies.vercel.app/?username=deepaiimsss">
-
-</p>
-
-<p align="center">
-  <img
-    width="60%"
-    src="https://github-readme-activity-graph-delta-teal.vercel.app/api?username=deepaiimsss&show_icons=true&theme=synthwave"
-  >
-</p>
-
-</details>
-
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
-
-<details>
-<summary>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠐</summary>
-
-<h2 align="center">
-  <b>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠐</b>
-</h2>
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=459&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+CSS%2C+Java%2C+HTML%2C+C%2B%2B%2C+C%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
 <br>
 
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+```python3
+class Deepjit():
+    def __init__(self):
+        self.name = ['Deepjit']
+        self.country = ['India']
+        self.state = ['West Bengal']
+        self.language = ['हिंदी', 'English', 'বাংলা']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL', 'Java', 'JavaScript', 'C++', 'C', 'Go', 'PHP'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML', 'CSS'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android', 'Linux'
+        ]
+ ```
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+  
+<div align="center">
+<img src="https://telegra.ph/file/93fc9f10eb3d22707a6f6.jpg"/>
+</div>
+
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+<details>
+<summary>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 ⠂</summary>
+<h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬⠐
+<br>
+
+
+![GitHub followers](https://img.shields.io/github/followers/deepaiimsss?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=deepaiimsss.deepaiimsss)
+[![Profile views](https://komarev.com/ghpvc/?username=deepaiimsss&label=Profile%20views)](https://github.com/deepaiimsss)
+![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
+  
 <p align="center">
-  <img
-    width="60%"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=deepaiimsss&theme=github_dark"
-  >
+  <img width="60%" src="https://github-readme-activity-graph-delta-teal.vercel.app//api?username=deepaiimsss&show_icons=true&theme=synthwave" />
 </p>
 
+</a>
+</b></h2>  
 </details>
 
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+  
+<details>
+<summary>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠂</summary>
+<h2 align="center"><b>⠂𝐌𝐨𝐬𝐭 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬⠐
+<br>
+<br>
+<p align="center">
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs?username=deepaiimsss&theme=github_dark" />
+</p>
+</b></h2>  
+</details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 
 <details>
 <summary>⠂𝐃𝐞𝐞𝐩𝐣𝐢𝐭'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐆𝐫𝐚𝐩𝐡⠐</summary>
+<h2 align="center"><b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬⠐
+  <br>
+  <br>
 
-<h2 align="center">
-  <b>⠂𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬⠐</b>
-</h2>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
-    alt="Deepjit's GitHub Graph"
-  >
-</p>
-
+![Deepjit's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaiimsss&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </details>
-
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+  
 
 <details>
 <summary>⠂𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞⠐</summary>
-
-<h2 align="center">
-  <b>⠂𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞⠐</b>
-</h2>
-
-<br>
-
-<p align="center">
-  <a href="mailto:deepjitkolkata@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
-</p>
-
+<h2 align="center"><b>⠂𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞⠐
+  <br>
+  <br>
+  
+  
+[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](deepjitkolkata@gmail.com)</b></h2>
 </details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+
 
 <details>
 <summary>⠂𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬⠐</summary>
+<h2 align="center"><b> ⠂𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬⠐
+  <br>
+  <br>
 
-<h2 align="center">
-  <b>⠂𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬⠐</b>
-</h2>
-
-<br>
-
-<p align="center">
-
-  <a href="https://www.instagram.com/deepjit_9862">
-    <img
-      src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    >
-  </a>
-
-  <a href="https://t.me/Itz_me_AR">
-    <img
-      src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-    >
-  </a>
-
-</p>
-
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepjit_9862) 
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Itz_me_AR) 
 </details>
-
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
-
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 <details>
 <summary>⠂𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐋𝐨𝐯𝐞⠐</summary>
-
-<h2 align="center">
-  <b>⠂𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐋𝐨𝐯𝐞⠐</b>
-</h2>
-
-<br>
-
-<p align="center">
-
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-
-<img alt="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB">
-
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
-
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
-
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-
-<img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white">
-
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white">
-
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white">
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
-<img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-
-<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-
-<img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
-
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
-</p>
-
+<h2 align="center"><b>⠂𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐋𝐨𝐯𝐞⠐
+  <br>
+  <br>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt ="Nest JS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="Next JS" src="https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="BootStrap" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>	
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />  	
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</b></h2>
 </details>
+  
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
 
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
+
+[![Metrics](./github-metrics.svg)](https://t.me/Itz_me_AR)
+[<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif"/>](https://github.com/deepaiimsss) 
+
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics">
-</p>
+  <i>A good code is like a story, not a puzzle.</i><br/>
+</p> 
 
-<img src="https://github.com/deepaiimsss/deepaiimsss/blob/main/resources/hr.gif">
-
-<p align="center">
-  <i>A good code is like a story, not a puzzle.</i>
-</p>
-
-### - Python
+### - Python 
 
 <p align="left">
-  <a href="https://www.python.org">
-    <img
-      src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-      alt="Python"
-    >
-  </a>
+<a href="https://www.python.org">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 </p>
+
+
 
 ### - Blogs 🌱
 
-<p align="center">
-  <img
-    src="https://madewithlove.now.sh/in?heart=true&template=for-the-badge"
-    alt="Made with love in India"
-  >
-</p>
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
----
+***********************************
 
-<h4 align="center">
-  Thank You 🙏🏼
-</h4>
+#### Thank You-🙏🏼
 
-<p align="center">
-  <b>Deepjit</b>
-  <br>
-  ⭐ From <a href="https://github.com/deepaiimsss">Deepjit</a>
-</p>
+
+> Deepjit
+⭐ From [Deepjit](https://github.com/deepaiimsss)
