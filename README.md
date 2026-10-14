@@ -50,7 +50,7 @@ class Deepjit():
 
 ![GitHub followers](https://img.shields.io/github/followers/deepaiimsss?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=deepaiimsss.deepaiimsss)
-[![Profile views](![](https://komarev.com/ghpvc/?username=deepaiimsss&abbreviated=true))](https://github.com/deepaiimsss)
+[![Profile views](https://komarev.com/ghpvc/?username=deepaiimsss&abbreviated=true)](https://github.com/deepaiimsss)
 ![Github Trophy](https://github-trophies.vercel.app/?username=deepaiimsss)
 
 </a>
